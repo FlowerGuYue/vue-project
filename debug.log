@@ -1,0 +1,54 @@
+[10636:13712:0413/092438.579:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[10636:13712:0413/092438.585:VERBOSE1:crash_service.cc(142)] window handle is 00000000000C068E
+[10636:13712:0413/092438.585:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[10636:13712:0413/092438.585:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[10636:13712:0413/092438.586:ERROR:crash_service.cc(295)] could not start dumper
+[13240:6492:0413/093349.268:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[13240:6492:0413/093349.273:VERBOSE1:crash_service.cc(142)] window handle is 0000000000030746
+[13240:6492:0413/093349.273:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[13240:6492:0413/093349.273:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[13240:6492:0413/093349.273:ERROR:crash_service.cc(295)] could not start dumper
+[15404:2596:0413/094930.047:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[15404:2596:0413/094930.053:VERBOSE1:crash_service.cc(142)] window handle is 000000000019069A
+[15404:2596:0413/094930.053:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[15404:2596:0413/094930.053:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[15404:2596:0413/094930.053:ERROR:crash_service.cc(295)] could not start dumper
+[20700:14532:0413/095305.346:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[20700:14532:0413/095305.353:VERBOSE1:crash_service.cc(142)] window handle is 00000000000D08DA
+[20700:14532:0413/095305.353:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[20700:14532:0413/095305.353:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[20700:14532:0413/095305.353:ERROR:crash_service.cc(295)] could not start dumper
+[20188:5264:0413/095507.318:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[20188:5264:0413/095507.324:VERBOSE1:crash_service.cc(142)] window handle is 000000000036069A
+[20188:5264:0413/095507.324:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[20188:5264:0413/095507.324:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[20188:5264:0413/095507.324:ERROR:crash_service.cc(295)] could not start dumper
+[15172:284:0413/171442.374:VERBOSE1:crash_service_main.cc(78)] Session start. cmdline is [--reporter-url=https://crashreporter.atom.io --application-name=Atom "--crashes-directory=C:\Users\ASUS\AppData\Local\Temp\Atom Crashes" --v=1]
+[15172:284:0413/171442.389:VERBOSE1:crash_service.cc(142)] window handle is 0000000000070BB2
+[15172:284:0413/171442.389:VERBOSE1:crash_service.cc(284)] pipe name is \\.\pipe\Atom Crash Service
+dumps at C:\Users\ASUS\AppData\Local\Temp\Atom Crashes
+[15172:284:0413/171442.389:VERBOSE1:crash_service.cc(288)] checkpoint is C:\Users\ASUS\AppData\Local\Temp\Atom Crashes\crash_checkpoint.txt
+server is https://crashreporter.atom.io
+maximum 128 reports/day
+reporter is electron-crash-service
+[15172:284:0413/171442.389:ERROR:crash_service.cc(295)] could not start dumper
